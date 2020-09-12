@@ -1,0 +1,62 @@
+
+body {
+  font-family: "Avenir Next";
+}
+li{
+    list-style: none;
+}
+.title h1{
+    font-size:25px;
+    background-color:;
+    padding-top:px;
+    padding-bottom:px;
+    padding-left:px;
+    padding-right:px;
+    margin-top:0px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right:0px;
+}
+
+.Welcome p{
+    font-size:20px;
+    background-color:;
+    padding-top:px;
+    padding-bottom:px;
+    padding-left:px;
+    padding-right:px;
+    margin-top:0px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right:0px;
+}
+
+.Kiriya{
+    color:crimson;
+}
+
+.list h2{
+    font-size:25px;
+    background-color:;
+    padding-top:px;
+    padding-bottom:px;
+    padding-left:px;
+    padding-right:px;
+    margin-top:0px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right:0px;
+}
+
+.list li{
+    font-size:20px;
+    background-color:;
+    padding-top:px;
+    padding-bottom:px;
+    padding-left:px;
+    padding-right:px;
+    margin-top:0px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right:0px;
+}
